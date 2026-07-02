@@ -5,16 +5,17 @@
 ### 📦 安装指南
 由于本插件目前以开源形式分发，请通过浏览器的“开发者模式”安装：
 
-1. 在下方 **Assets** 中，点击下载 `ao3-tag-assistant-v1.0.zip`。
-2. 将下载的压缩包解压到你电脑里的一个常用文件夹（注意：安装后请勿删除此文件夹）。
-3. 打开 Chrome 或 Edge 浏览器，在地址栏输入 `chrome://extensions/` 进入扩展程序页面。
+1. 下载项目中的`ao3-tag-assistant-v1.0.zip`。
+2. 将下载的压缩包解压到你电脑里的一个常用文件夹。
+3. 打开 Chrome浏览器，在地址栏输入 `chrome://extensions/` 进入扩展程序页面。
 4. 打开右上角的 **“开发者模式” (Developer mode)** 开关。
 5. 点击左上角的 **“加载已解压的扩展程序” (Load unpacked)**，选择你刚刚解压的文件夹，或直接将文件夹拖入浏览器即可。
-
+https://i.postimg.cc/XJQz6TLX/copy-D9B071BF-7FAB-4E7E-B2BE-0E2554315B90.gif
 ### 使用指南
 1.打开任意需要复制的作品界面
 2.使用插件或右键菜单提取作品信息
 3.打开Post New Work 页面，选择填入标签
+https://i.postimg.cc/MHtx4Pfk/copy-3A260F00-0FF0-4143-BE5F-E26EA7AC50E6.gif
 
 ### 其他说明
 提取的信息保存在电脑本地，支持修改，添加信息
