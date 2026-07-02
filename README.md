@@ -11,7 +11,7 @@
 4. 打开右上角的 **“开发者模式” (Developer mode)** 开关。
 5. 点击左上角的 **“加载已解压的扩展程序” (Load unpacked)**，选择你刚刚解压的文件夹，或直接将文件夹拖入浏览器即可。
 [![copy-D9B071BF-7FAB-4E7E-B2BE-0E2554315B90.gif](https://i.postimg.cc/XJQz6TLX/copy-D9B071BF-7FAB-4E7E-B2BE-0E2554315B90.gif)](https://postimg.cc/Ppv4mVBk)
-
+[url=https://postimg.cc/Ppv4mVBk][img]https://i.postimg.cc/Ppv4mVBk/copy-D9B071BF-7FAB-4E7E-B2BE-0E2554315B90.gif[/img][/url]
 https://i.postimg.cc/XJQz6TLX/copy-D9B071BF-7FAB-4E7E-B2BE-0E2554315B90.gif
 ### 使用指南
 1.打开任意需要复制的作品界面
