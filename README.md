@@ -12,6 +12,10 @@
 5. 点击左上角的 **“加载已解压的扩展程序” (Load unpacked)**，选择你刚刚解压的文件夹，或直接将文件夹拖入浏览器即可。
 [url=https://postimages.org/][img]https://i.postimg.cc/XJQz6TLX/copy-D9B071BF-7FAB-4E7E-B2BE-0E2554315B90.gif[/img][/url]
 https://i.postimg.cc/XJQz6TLX/copy-D9B071BF-7FAB-4E7E-B2BE-0E2554315B90.gif
+
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/XJQz6TLX/copy-D9B071BF-7FAB-4E7E-B2BE-0E2554315B90.gif' border='0' alt='copy-D9B071BF-7FAB-4E7E-B2BE-0E2554315B90'></a>
+
+[![copy-D9B071BF-7FAB-4E7E-B2BE-0E2554315B90.gif](https://i.postimg.cc/XJQz6TLX/copy-D9B071BF-7FAB-4E7E-B2BE-0E2554315B90.gif)](https://postimg.cc/Ppv4mVBk)
 ### 使用指南
 1.打开任意需要复制的作品界面
 2.使用插件或右键菜单提取作品信息
