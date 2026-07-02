@@ -17,6 +17,7 @@
 1.打开任意需要复制的作品界面
 2.使用插件或右键菜单提取作品信息
 3.打开Post New Work 页面，选择填入标签
+
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/MHtx4Pfk/copy-3A260F00-0FF0-4143-BE5F-E26EA7AC50E6.gif' border='0' alt='copy-3A260F00-0FF0-4143-BE5F-E26EA7AC50E6'></a>
 
 ### 其他说明
